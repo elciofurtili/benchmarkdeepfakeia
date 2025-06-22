@@ -36,7 +36,6 @@ elif args.model == 'wav2vec':
 else:
     raise ValueError("Modelo inválido.")
 
-# Simulando inferência (substituir com o modelo treinado real)
 print("Executando inferência...")
 y_pred = []
 for xi in X_proc:
