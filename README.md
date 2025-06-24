@@ -27,10 +27,10 @@ pip install torch --index-url https://download.pytorch.org/whl/rocm5.7
 ├── reports/                      # Relatórios e métricas geradas
 │   └── metrics_report.csv
 ├── utils.py                      # Funções auxiliares
-├── database.py                    # Gerenciamento de dados locais
-├── main.py                        # Interface CLI para execução
-├── requirements.txt               # Dependências
-└── README.md                      # Este documento
+├── database.py                   # Gerenciamento de dados locais
+├── main.py                       # Interface CLI para execução
+├── requirements.txt              # Dependências
+└── README.md                     # Este documento
 ```
 
 ## Modelos Implementados
