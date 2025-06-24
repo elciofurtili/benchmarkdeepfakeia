@@ -89,4 +89,4 @@ python main.py --model wav2vec
 
 ## Artigo Relacionado
 
-Este projeto é base para o artigo produzido na disciplina de Inteligência Artificial (2025), disponível em: [Artigo PDF](https://github.com/elciofurtili/deepfake-audio-benchmark/blob/main/artigo.pdf)
+Este projeto é base para o artigo produzido na disciplina de Inteligência Artificial (2025), disponível em: [Artigo](https://github.com/elciofurtili/benchmarkdeepfakeia/blob/main/artigo.pdf)
